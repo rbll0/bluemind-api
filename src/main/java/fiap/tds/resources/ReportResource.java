@@ -28,9 +28,9 @@ public class ReportResource {
     public Response adicionarReport(Report report) {
         try {
             reportService.adicionarReport(report);
-            return Response.status(Response.Status.CREATED).build();
+            return Response.status(Response.Status.CREATED).entity("{\"message\": \"Report created successfully\"}").build();
         } catch (DatabaseException e) {
-            return Response.status(Response.Status.INTERNAL_SERVER_ERROR).entity(e.getMessage()).build();
+            return Response.status(Response.Status.INTERNAL_SERVER_ERROR).entity("{\"error\": \"" + e.getMessage() + "\"}").build();
         }
     }
 
@@ -44,9 +44,9 @@ public class ReportResource {
     public Response atualizarReport(Report report) {
         try {
             reportService.atualizarReport(report);
-            return Response.ok().build();
+            return Response.ok().entity("{\"message\": \"Report updated successfully\"}").build();
         } catch (DatabaseException e) {
-            return Response.status(Response.Status.INTERNAL_SERVER_ERROR).entity(e.getMessage()).build();
+            return Response.status(Response.Status.INTERNAL_SERVER_ERROR).entity("{\"error\": \"" + e.getMessage() + "\"}").build();
         }
     }
 
@@ -61,9 +61,9 @@ public class ReportResource {
     public Response removerReport(@PathParam("id") int id) {
         try {
             reportService.removerReport(id);
-            return Response.ok().build();
+            return Response.ok().entity("{\"message\": \"Report deleted successfully\"}").build();
         } catch (DatabaseException e) {
-            return Response.status(Response.Status.INTERNAL_SERVER_ERROR).entity(e.getMessage()).build();
+            return Response.status(Response.Status.INTERNAL_SERVER_ERROR).entity("{\"error\": \"" + e.getMessage() + "\"}").build();
         }
     }
 
@@ -81,10 +81,10 @@ public class ReportResource {
             if (report != null) {
                 return Response.ok(report).build();
             } else {
-                return Response.status(Response.Status.NOT_FOUND).build();
+                return Response.status(Response.Status.NOT_FOUND).entity("{\"error\": \"Report not found\"}").build();
             }
         } catch (DatabaseException e) {
-            return Response.status(Response.Status.INTERNAL_SERVER_ERROR).entity(e.getMessage()).build();
+            return Response.status(Response.Status.INTERNAL_SERVER_ERROR).entity("{\"error\": \"" + e.getMessage() + "\"}").build();
         }
     }
 
@@ -99,7 +99,7 @@ public class ReportResource {
             List<Report> reports = reportService.listarReports();
             return Response.ok(reports).build();
         } catch (DatabaseException e) {
-            return Response.status(Response.Status.INTERNAL_SERVER_ERROR).entity(e.getMessage()).build();
+            return Response.status(Response.Status.INTERNAL_SERVER_ERROR).entity("{\"error\": \"" + e.getMessage() + "\"}").build();
         }
     }
 }

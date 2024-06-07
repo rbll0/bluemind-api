@@ -445,3 +445,7 @@
   "siafi": "7107"
 }
 2024-06-06 22:10:18.337 [grizzly-http-server-2] INFO  fiap.tds.service.ReportService - Endereço obtido pelo CEP: {"cep":"01001-000","logradouro":"Praça da Sé","complemento":"lado ímpar","bairro":"Sé","localidade":"São Paulo","uf":"SP","ibge":"3550308","gia":"1004","ddd":"11","siafi":"7107"}
+2024-06-07 14:13:37.456 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-07 14:13:37.827 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-07 14:13:37.827 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-07 14:13:37.827 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
