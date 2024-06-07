@@ -1,0 +1,447 @@
+2024-06-04 01:34:26.632 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-04 01:34:27.483 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-04 01:34:27.484 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-04 01:34:27.484 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-04 15:00:07.501 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-04 15:00:08.455 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-04 15:00:08.455 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-04 15:00:08.455 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-04 15:15:17.769 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-04 15:15:18.543 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-04 15:15:18.543 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-04 15:15:18.543 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-04 15:20:04.398 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-04 15:20:05.199 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-04 15:20:05.199 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-04 15:20:05.199 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-04 15:23:37.395 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-04 15:23:38.228 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-04 15:23:38.228 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-04 15:23:38.228 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-04 15:29:32.237 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-04 15:29:33.039 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-04 15:29:33.039 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-04 15:29:33.039 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-04 15:29:58.933 [grizzly-http-server-0] INFO  fiap.tds.service.UserReportService - Verificando email: joao.silva@example.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40example.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-04 15:29:59.528 [grizzly-http-server-0] INFO  fiap.tds.service.UserReportService - Resposta da verificação de email: {"status":false,"error":{"code":2,"message":"Disposable email address"}}
+2024-06-04 15:31:26.258 [grizzly-http-server-1] INFO  fiap.tds.service.UserReportService - Verificando email: joao.silva@gmail.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40gmail.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-04 15:31:26.551 [grizzly-http-server-1] INFO  fiap.tds.service.UserReportService - Resposta da verificação de email: {"status":true,"email":"joao.silva@gmail.com","domain":"gmail.com"}
+2024-06-04 15:31:37.802 [grizzly-http-server-2] INFO  fiap.tds.service.UserReportService - Verificando email: gurabelo09@gmail.com com URL: https://verifier.meetchopra.com/verify/gurabelo09%40gmail.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-04 15:31:38.079 [grizzly-http-server-2] INFO  fiap.tds.service.UserReportService - Resposta da verificação de email: {"status":true,"email":"gurabelo09@gmail.com","domain":"gmail.com"}
+2024-06-04 15:34:34.539 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-04 15:34:35.296 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-04 15:34:35.297 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-04 15:34:35.297 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-04 15:34:53.445 [grizzly-http-server-0] INFO  fiap.tds.service.UserReportService - Verificando email: joao.silva@example.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40example.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-04 15:34:54.039 [grizzly-http-server-0] INFO  fiap.tds.service.UserReportService - Resposta da verificação de email: {"status":false,"error":{"code":2,"message":"Disposable email address"}}
+2024-06-04 15:34:54.121 [grizzly-http-server-0] WARN  fiap.tds.service.UserReportService - Email inválido: Disposable email address
+2024-06-04 15:34:58.155 [grizzly-http-server-1] INFO  fiap.tds.service.UserReportService - Verificando email: joao.silva@example.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40example.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-04 15:34:58.417 [grizzly-http-server-1] INFO  fiap.tds.service.UserReportService - Resposta da verificação de email: {"status":false,"error":{"code":2,"message":"Disposable email address"}}
+2024-06-04 15:34:58.418 [grizzly-http-server-1] WARN  fiap.tds.service.UserReportService - Email inválido: Disposable email address
+2024-06-04 15:34:59.570 [grizzly-http-server-2] INFO  fiap.tds.service.UserReportService - Verificando email: joao.silva@example.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40example.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-04 15:34:59.838 [grizzly-http-server-2] INFO  fiap.tds.service.UserReportService - Resposta da verificação de email: {"status":false,"error":{"code":2,"message":"Disposable email address"}}
+2024-06-04 15:34:59.839 [grizzly-http-server-2] WARN  fiap.tds.service.UserReportService - Email inválido: Disposable email address
+2024-06-04 15:35:00.492 [grizzly-http-server-3] INFO  fiap.tds.service.UserReportService - Verificando email: joao.silva@example.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40example.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-04 15:35:00.791 [grizzly-http-server-3] INFO  fiap.tds.service.UserReportService - Resposta da verificação de email: {"status":false,"error":{"code":2,"message":"Disposable email address"}}
+2024-06-04 15:35:00.791 [grizzly-http-server-3] WARN  fiap.tds.service.UserReportService - Email inválido: Disposable email address
+2024-06-04 15:36:44.532 [grizzly-http-server-4] INFO  fiap.tds.service.UserReportService - Verificando email: maria.souza@gmail.com com URL: https://verifier.meetchopra.com/verify/maria.souza%40gmail.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-04 15:36:44.872 [grizzly-http-server-4] INFO  fiap.tds.service.UserReportService - Resposta da verificação de email: {"status":true,"email":"maria.souza@gmail.com","domain":"gmail.com"}
+2024-06-04 15:36:45.287 [grizzly-http-server-4] INFO  fiap.tds.service.UserReportService - Resposta da busca de CEP: {
+  "cep": "01001-000",
+  "logradouro": "Praça da Sé",
+  "complemento": "lado ímpar",
+  "bairro": "Sé",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}
+2024-06-04 15:38:57.037 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-04 15:38:57.822 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-04 15:38:57.823 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-04 15:38:57.823 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-04 15:43:11.329 [grizzly-http-server-0] INFO  fiap.tds.service.UserReportService - Verificando email: joao.silva@hotmail.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40hotmail.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-04 15:43:12.125 [grizzly-http-server-0] INFO  fiap.tds.service.UserReportService - Resposta da verificação de email: {"status":true,"email":"joao.silva@hotmail.com","domain":"hotmail.com"}
+2024-06-04 15:43:12.641 [grizzly-http-server-0] INFO  fiap.tds.service.UserReportService - Resposta da busca de CEP: {
+  "cep": "01001-000",
+  "logradouro": "Praça da Sé",
+  "complemento": "lado ímpar",
+  "bairro": "Sé",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}
+2024-06-04 16:27:49.144 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-04 16:27:49.985 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-04 16:27:49.986 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-04 16:27:49.986 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-04 16:28:36.116 [grizzly-http-server-0] INFO  fiap.tds.service.ReportService - Verificando email: joao.silva@example.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40example.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-04 16:28:36.765 [grizzly-http-server-0] INFO  fiap.tds.service.ReportService - Resposta da verificação de email: {"status":false,"error":{"code":2,"message":"Disposable email address"}}
+2024-06-04 16:28:36.845 [grizzly-http-server-0] WARN  fiap.tds.service.ReportService - Email inválido: Disposable email address
+2024-06-04 16:31:55.274 [grizzly-http-server-1] INFO  fiap.tds.service.ReportService - Verificando email: joao.silva@example.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40example.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-04 16:31:55.839 [grizzly-http-server-1] INFO  fiap.tds.service.ReportService - Resposta da verificação de email: {"status":false,"error":{"code":2,"message":"Disposable email address"}}
+2024-06-04 16:31:55.840 [grizzly-http-server-1] WARN  fiap.tds.service.ReportService - Email inválido: Disposable email address
+2024-06-04 16:34:51.999 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-04 16:34:52.919 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-04 16:34:52.919 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-04 16:34:52.919 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-04 16:35:14.258 [grizzly-http-server-0] INFO  fiap.tds.service.ReportService - Usuário associado ao relatório: UserReport{id=1, nomeCompleto='joão silva', email='joao.silva@example.com', cpf='12345678901', cep='01001000'}
+2024-06-04 16:35:14.260 [grizzly-http-server-0] INFO  fiap.tds.service.ReportService - Verificando email: joao.silva@example.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40example.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-04 16:35:14.988 [grizzly-http-server-0] INFO  fiap.tds.service.ReportService - Resposta da verificação de email: {"status":false,"error":{"code":2,"message":"Disposable email address"}}
+2024-06-04 16:35:15.068 [grizzly-http-server-0] WARN  fiap.tds.service.ReportService - Email inválido: Disposable email address
+2024-06-04 17:06:14.513 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-04 17:06:15.692 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-04 17:06:15.693 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-04 17:06:15.693 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-04 17:06:16.345 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-04 17:07:03.493 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-04 17:07:04.271 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-04 17:07:04.271 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-04 17:07:04.272 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-04 17:07:45.814 [grizzly-http-server-0] INFO  fiap.tds.service.ReportService - Verificando email: joao.silva@example.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40example.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-04 17:07:46.372 [grizzly-http-server-0] INFO  fiap.tds.service.ReportService - Resposta da verificação de email: {"status":false,"error":{"code":2,"message":"Disposable email address"}}
+2024-06-04 17:07:46.456 [grizzly-http-server-0] WARN  fiap.tds.service.ReportService - Email inválido: Disposable email address
+2024-06-04 17:11:41.387 [grizzly-http-server-1] INFO  fiap.tds.service.ReportService - Verificando email: joao.silva@hotmail.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40hotmail.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-04 17:11:41.737 [grizzly-http-server-1] INFO  fiap.tds.service.ReportService - Resposta da verificação de email: {"status":true,"email":"joao.silva@hotmail.com","domain":"hotmail.com"}
+2024-06-04 17:11:42.176 [grizzly-http-server-1] INFO  fiap.tds.service.ReportService - Resposta da busca de CEP: {
+  "cep": "01001-000",
+  "logradouro": "Praça da Sé",
+  "complemento": "lado ímpar",
+  "bairro": "Sé",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}
+2024-06-04 18:20:26.968 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-04 18:20:27.957 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-04 18:20:27.957 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-04 18:20:27.957 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-04 18:20:51.109 [grizzly-http-server-0] INFO  fiap.tds.service.ReportService - Verificando email: joao.silva@exemplo.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40exemplo.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-04 18:20:51.938 [grizzly-http-server-0] INFO  fiap.tds.service.ReportService - Resposta da verificação de email: {"status":true,"email":"joao.silva@exemplo.com","domain":"exemplo.com"}
+2024-06-04 18:20:52.420 [grizzly-http-server-0] INFO  fiap.tds.service.ReportService - Resposta da busca de CEP: {
+  "cep": "01001-000",
+  "logradouro": "Praça da Sé",
+  "complemento": "lado ímpar",
+  "bairro": "Sé",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}
+2024-06-04 18:34:44.934 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-04 18:34:45.916 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-04 18:34:45.917 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-04 18:34:45.917 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-04 18:34:46.439 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-04 18:35:08.099 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-04 18:35:08.868 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-04 18:35:08.868 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-04 18:35:08.868 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-05 00:02:06.053 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-05 00:02:06.938 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-05 00:02:06.939 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-05 00:02:06.939 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-05 00:14:27.635 [grizzly-http-server-17] INFO  fiap.tds.service.ReportService - Verificando email: joao.silva@hotmail.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40hotmail.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-05 00:14:28.330 [grizzly-http-server-17] INFO  fiap.tds.service.ReportService - Resposta da verificação de email: {"status":true,"email":"joao.silva@hotmail.com","domain":"hotmail.com"}
+2024-06-05 00:14:28.837 [grizzly-http-server-17] INFO  fiap.tds.service.ReportService - Resposta da busca de CEP: {
+  "cep": "01001-000",
+  "logradouro": "Praça da Sé",
+  "complemento": "lado ímpar",
+  "bairro": "Sé",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}
+2024-06-05 00:14:37.431 [grizzly-http-server-18] INFO  fiap.tds.service.ReportService - Verificando email: joao.silva@hotmail.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40hotmail.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-05 00:14:37.695 [grizzly-http-server-18] INFO  fiap.tds.service.ReportService - Resposta da verificação de email: {"status":true,"email":"joao.silva@hotmail.com","domain":"hotmail.com"}
+2024-06-05 00:14:38.075 [grizzly-http-server-18] INFO  fiap.tds.service.ReportService - Resposta da busca de CEP: {
+  "cep": "01001-000",
+  "logradouro": "Praça da Sé",
+  "complemento": "lado ímpar",
+  "bairro": "Sé",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}
+2024-06-05 00:22:44.603 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-05 00:22:45.395 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-05 00:22:45.395 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-05 00:22:45.395 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-05 00:23:46.037 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-05 00:23:46.849 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-05 00:23:46.849 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-05 00:23:46.849 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-05 00:24:25.617 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-05 00:24:26.444 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-05 00:24:26.444 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-05 00:24:26.444 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-05 00:26:06.621 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-05 00:26:07.423 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-05 00:26:07.423 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-05 00:26:07.423 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-05 00:30:14.339 [grizzly-http-server-3] INFO  fiap.tds.service.ReportService - Verificando email: joao.silva@gmail.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40gmail.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-05 00:30:14.935 [grizzly-http-server-3] INFO  fiap.tds.service.ReportService - Resposta da verificação de email: {"status":true,"email":"joao.silva@gmail.com","domain":"gmail.com"}
+2024-06-05 00:30:15.424 [grizzly-http-server-3] INFO  fiap.tds.service.ReportService - Resposta da busca de CEP: {
+  "cep": "01001-000",
+  "logradouro": "Praça da Sé",
+  "complemento": "lado ímpar",
+  "bairro": "Sé",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}
+2024-06-05 00:44:14.153 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-05 00:44:15.192 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-05 00:44:15.192 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-05 00:44:15.192 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-05 00:44:15.811 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-05 00:44:22.282 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-05 00:44:23.107 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-05 00:44:23.107 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-05 00:44:23.108 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-05 00:47:18.933 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-05 00:47:19.722 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-05 00:47:19.722 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-05 00:47:19.722 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-05 00:49:16.019 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-05 00:49:16.812 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-05 00:49:16.812 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-05 00:49:16.812 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-05 00:51:24.473 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-05 00:51:25.567 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-05 00:51:25.567 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-05 00:51:25.568 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-05 00:51:26.174 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-05 00:51:32.466 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-05 00:51:33.334 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-05 00:51:33.334 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-05 00:51:33.335 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-05 00:52:15.638 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-05 00:52:16.502 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-05 00:52:16.503 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-05 00:52:16.503 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-05 00:53:32.544 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-05 00:53:33.337 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-05 00:53:33.338 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-05 00:53:33.338 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-05 01:04:53.287 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-05 01:04:54.101 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-05 01:04:54.101 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-05 01:04:54.101 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-05 01:05:31.770 [grizzly-http-server-0] INFO  fiap.tds.service.ReportService - Usuário associado ao relatório: UserReport{id=1, nomeCompleto='joão silva', email='joao.silva@example.com', cpf='12345678901', cep='01001000'}
+2024-06-05 01:05:31.771 [grizzly-http-server-0] INFO  fiap.tds.service.ReportService - Verificando email: joao.silva@example.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40example.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-05 01:05:32.378 [grizzly-http-server-0] INFO  fiap.tds.service.ReportService - Resposta da verificação de email: {"status":false,"error":{"code":2,"message":"Disposable email address"}}
+2024-06-05 01:05:32.460 [grizzly-http-server-0] WARN  fiap.tds.service.ReportService - Email inválido: Disposable email address
+2024-06-05 01:05:49.206 [grizzly-http-server-1] INFO  fiap.tds.service.ReportService - Usuário associado ao relatório: UserReport{id=1, nomeCompleto='joão silva', email='joao.silva@example.com', cpf='12345678901', cep='01001000'}
+2024-06-05 01:05:49.206 [grizzly-http-server-1] INFO  fiap.tds.service.ReportService - Verificando email: joao.silva@example.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40example.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-05 01:05:49.498 [grizzly-http-server-1] INFO  fiap.tds.service.ReportService - Resposta da verificação de email: {"status":false,"error":{"code":2,"message":"Disposable email address"}}
+2024-06-05 01:05:49.499 [grizzly-http-server-1] WARN  fiap.tds.service.ReportService - Email inválido: Disposable email address
+2024-06-05 01:07:25.859 [grizzly-http-server-2] INFO  fiap.tds.service.ReportService - Usuário associado ao relatório: UserReport{id=1, nomeCompleto='joão silva', email='joao.silva@example.com', cpf='12345678901', cep='01001000'}
+2024-06-05 01:07:25.860 [grizzly-http-server-2] INFO  fiap.tds.service.ReportService - Verificando email: joao.silva@example.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40example.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-05 01:07:26.254 [grizzly-http-server-2] INFO  fiap.tds.service.ReportService - Resposta da verificação de email: {"status":false,"error":{"code":2,"message":"Disposable email address"}}
+2024-06-05 01:07:26.255 [grizzly-http-server-2] WARN  fiap.tds.service.ReportService - Email inválido: Disposable email address
+2024-06-05 01:07:57.634 [grizzly-http-server-3] INFO  fiap.tds.service.ReportService - Usuário associado ao relatório: UserReport{id=10, nomeCompleto='João Silva', email='joao.silva@gmail.com', cpf='12345678901', cep='01001000'}
+2024-06-05 01:07:57.635 [grizzly-http-server-3] INFO  fiap.tds.service.ReportService - Verificando email: joao.silva@gmail.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40gmail.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-05 01:07:58.027 [grizzly-http-server-3] INFO  fiap.tds.service.ReportService - Resposta da verificação de email: {"status":true,"email":"joao.silva@gmail.com","domain":"gmail.com"}
+2024-06-05 01:07:58.434 [grizzly-http-server-3] INFO  fiap.tds.service.ReportService - Resposta da busca de CEP: {
+  "cep": "01001-000",
+  "logradouro": "Praça da Sé",
+  "complemento": "lado ímpar",
+  "bairro": "Sé",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}
+2024-06-05 01:07:58.450 [grizzly-http-server-3] INFO  fiap.tds.service.ReportService - Endereço obtido pelo CEP: {"cep":"01001-000","logradouro":"Praça da Sé","complemento":"lado ímpar","bairro":"Sé","localidade":"São Paulo","uf":"SP","ibge":"3550308","gia":"1004","ddd":"11","siafi":"7107"}
+2024-06-05 01:10:04.139 [grizzly-http-server-6] INFO  fiap.tds.service.ReportService - Usuário associado ao relatório: UserReport{id=10, nomeCompleto='João Silva', email='joao.silva@gmail.com', cpf='12345678901', cep='01001000'}
+2024-06-05 01:10:04.140 [grizzly-http-server-6] INFO  fiap.tds.service.ReportService - Verificando email: joao.silva@gmail.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40gmail.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-05 01:10:04.431 [grizzly-http-server-6] INFO  fiap.tds.service.ReportService - Resposta da verificação de email: {"status":true,"email":"joao.silva@gmail.com","domain":"gmail.com"}
+2024-06-05 01:10:04.827 [grizzly-http-server-6] INFO  fiap.tds.service.ReportService - Resposta da busca de CEP: {
+  "cep": "01001-000",
+  "logradouro": "Praça da Sé",
+  "complemento": "lado ímpar",
+  "bairro": "Sé",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}
+2024-06-05 01:10:04.828 [grizzly-http-server-6] INFO  fiap.tds.service.ReportService - Endereço obtido pelo CEP: {"cep":"01001-000","logradouro":"Praça da Sé","complemento":"lado ímpar","bairro":"Sé","localidade":"São Paulo","uf":"SP","ibge":"3550308","gia":"1004","ddd":"11","siafi":"7107"}
+2024-06-05 01:12:22.268 [grizzly-http-server-8] INFO  fiap.tds.service.ReportService - Usuário associado ao relatório: UserReport{id=10, nomeCompleto='João Silva', email='joao.silva@gmail.com', cpf='12345678901', cep='01001000'}
+2024-06-05 01:12:22.268 [grizzly-http-server-8] INFO  fiap.tds.service.ReportService - Verificando email: joao.silva@gmail.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40gmail.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-05 01:12:22.556 [grizzly-http-server-8] INFO  fiap.tds.service.ReportService - Resposta da verificação de email: {"status":true,"email":"joao.silva@gmail.com","domain":"gmail.com"}
+2024-06-05 01:12:22.944 [grizzly-http-server-8] INFO  fiap.tds.service.ReportService - Resposta da busca de CEP: {
+  "cep": "01001-000",
+  "logradouro": "Praça da Sé",
+  "complemento": "lado ímpar",
+  "bairro": "Sé",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}
+2024-06-05 01:12:22.945 [grizzly-http-server-8] INFO  fiap.tds.service.ReportService - Endereço obtido pelo CEP: {"cep":"01001-000","logradouro":"Praça da Sé","complemento":"lado ímpar","bairro":"Sé","localidade":"São Paulo","uf":"SP","ibge":"3550308","gia":"1004","ddd":"11","siafi":"7107"}
+2024-06-05 01:12:33.863 [grizzly-http-server-9] INFO  fiap.tds.service.ReportService - Usuário associado ao relatório: UserReport{id=10, nomeCompleto='João Silva', email='joao.silva@gmail.com', cpf='12345678901', cep='01001000'}
+2024-06-05 01:12:33.864 [grizzly-http-server-9] INFO  fiap.tds.service.ReportService - Verificando email: joao.silva@gmail.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40gmail.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-05 01:12:34.280 [grizzly-http-server-9] INFO  fiap.tds.service.ReportService - Resposta da verificação de email: {"status":true,"email":"joao.silva@gmail.com","domain":"gmail.com"}
+2024-06-05 01:12:34.658 [grizzly-http-server-9] INFO  fiap.tds.service.ReportService - Resposta da busca de CEP: {
+  "cep": "01001-000",
+  "logradouro": "Praça da Sé",
+  "complemento": "lado ímpar",
+  "bairro": "Sé",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}
+2024-06-05 01:12:34.659 [grizzly-http-server-9] INFO  fiap.tds.service.ReportService - Endereço obtido pelo CEP: {"cep":"01001-000","logradouro":"Praça da Sé","complemento":"lado ímpar","bairro":"Sé","localidade":"São Paulo","uf":"SP","ibge":"3550308","gia":"1004","ddd":"11","siafi":"7107"}
+2024-06-05 01:15:41.239 [grizzly-http-server-12] INFO  fiap.tds.service.UserReportService - Verificando email: jane.doe@example.com com URL: https://verifier.meetchopra.com/verify/jane.doe%40example.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-05 01:15:41.624 [grizzly-http-server-12] INFO  fiap.tds.service.UserReportService - Resposta da verificação de email: {"status":false,"error":{"code":2,"message":"Disposable email address"}}
+2024-06-05 01:15:41.625 [grizzly-http-server-12] WARN  fiap.tds.service.UserReportService - Email inválido: Disposable email address
+2024-06-05 01:15:54.034 [grizzly-http-server-13] INFO  fiap.tds.service.UserReportService - Verificando email: jane.doe@hotmail.com com URL: https://verifier.meetchopra.com/verify/jane.doe%40hotmail.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-05 01:15:54.283 [grizzly-http-server-13] INFO  fiap.tds.service.UserReportService - Resposta da verificação de email: {"status":true,"email":"jane.doe@hotmail.com","domain":"hotmail.com"}
+2024-06-05 01:15:54.684 [grizzly-http-server-13] INFO  fiap.tds.service.UserReportService - Resposta da busca de CEP: {
+  "erro": true
+}
+2024-06-05 01:15:59.556 [grizzly-http-server-14] INFO  fiap.tds.service.UserReportService - Verificando email: jane.doe123@hotmail.com com URL: https://verifier.meetchopra.com/verify/jane.doe123%40hotmail.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-05 01:16:00.070 [grizzly-http-server-14] INFO  fiap.tds.service.UserReportService - Resposta da verificação de email: {"status":true,"email":"jane.doe123@hotmail.com","domain":"hotmail.com"}
+2024-06-05 01:16:00.448 [grizzly-http-server-14] INFO  fiap.tds.service.UserReportService - Resposta da busca de CEP: {
+  "erro": true
+}
+2024-06-05 01:16:08.109 [grizzly-http-server-15] INFO  fiap.tds.service.UserReportService - Verificando email: jane.doe1980@hotmail.com com URL: https://verifier.meetchopra.com/verify/jane.doe1980%40hotmail.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-05 01:16:08.365 [grizzly-http-server-15] INFO  fiap.tds.service.UserReportService - Resposta da verificação de email: {"status":true,"email":"jane.doe1980@hotmail.com","domain":"hotmail.com"}
+2024-06-05 01:16:08.765 [grizzly-http-server-15] INFO  fiap.tds.service.UserReportService - Resposta da busca de CEP: {
+  "erro": true
+}
+2024-06-05 01:16:23.371 [grizzly-http-server-16] INFO  fiap.tds.service.UserReportService - Verificando email: jane.doe1980@hotmail.com com URL: https://verifier.meetchopra.com/verify/jane.doe1980%40hotmail.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-05 01:16:23.686 [grizzly-http-server-16] INFO  fiap.tds.service.UserReportService - Resposta da verificação de email: {"status":true,"email":"jane.doe1980@hotmail.com","domain":"hotmail.com"}
+2024-06-05 01:16:24.062 [grizzly-http-server-16] INFO  fiap.tds.service.UserReportService - Resposta da busca de CEP: {
+  "cep": "03371-006",
+  "logradouro": "Rua Salvador Felisoni",
+  "complemento": "",
+  "bairro": "Vila Formosa",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}
+2024-06-05 01:18:39.333 [grizzly-http-server-17] INFO  fiap.tds.service.UserReportService - Verificando email: jane.doe1980@outlook.com com URL: https://verifier.meetchopra.com/verify/jane.doe1980%40outlook.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-05 01:18:39.718 [grizzly-http-server-17] INFO  fiap.tds.service.UserReportService - Resposta da verificação de email: {"status":true,"email":"jane.doe1980@outlook.com","domain":"outlook.com"}
+2024-06-05 01:18:40.108 [grizzly-http-server-17] INFO  fiap.tds.service.UserReportService - Resposta da busca de CEP: {
+  "cep": "03371-006",
+  "logradouro": "Rua Salvador Felisoni",
+  "complemento": "",
+  "bairro": "Vila Formosa",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}
+2024-06-06 21:43:32.898 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-06 21:43:33.211 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-06 21:43:33.211 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-06 21:43:33.211 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-06 21:44:21.975 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-06 21:44:22.274 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-06 21:44:22.274 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-06 21:44:22.274 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-06 22:02:22.071 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-06 22:02:22.370 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-06 22:02:22.370 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-06 22:02:22.370 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-06 22:02:33.382 [grizzly-http-server-1] INFO  fiap.tds.service.ReportService - Verificando email: joao.silva@gmail.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40gmail.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-06 22:02:33.899 [grizzly-http-server-1] INFO  fiap.tds.service.ReportService - Resposta da verificação de email: {"status":true,"email":"joao.silva@gmail.com","domain":"gmail.com"}
+2024-06-06 22:02:34.400 [grizzly-http-server-1] INFO  fiap.tds.service.ReportService - Resposta da busca de CEP: {
+  "cep": "01001-000",
+  "logradouro": "Praça da Sé",
+  "complemento": "lado ímpar",
+  "bairro": "Sé",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}
+2024-06-06 22:04:47.655 [grizzly-http-server-2] INFO  fiap.tds.service.ReportService - Usuário associado ao relatório: UserReport{id=10, nomeCompleto='João Silva', email='joao.silva@gmail.com', cpf='12345678901', cep='01001000'}
+2024-06-06 22:04:47.659 [grizzly-http-server-2] INFO  fiap.tds.service.ReportService - Verificando email: joao.silva@gmail.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40gmail.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-06 22:04:48.077 [grizzly-http-server-2] INFO  fiap.tds.service.ReportService - Resposta da verificação de email: {"status":true,"email":"joao.silva@gmail.com","domain":"gmail.com"}
+2024-06-06 22:04:48.495 [grizzly-http-server-2] INFO  fiap.tds.service.ReportService - Resposta da busca de CEP: {
+  "cep": "01001-000",
+  "logradouro": "Praça da Sé",
+  "complemento": "lado ímpar",
+  "bairro": "Sé",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}
+2024-06-06 22:04:48.523 [grizzly-http-server-2] INFO  fiap.tds.service.ReportService - Endereço obtido pelo CEP: {"cep":"01001-000","logradouro":"Praça da Sé","complemento":"lado ímpar","bairro":"Sé","localidade":"São Paulo","uf":"SP","ibge":"3550308","gia":"1004","ddd":"11","siafi":"7107"}
+2024-06-06 22:09:29.475 [main] INFO  fiap.tds.Main - Registering resources in package: fiap.tds.resources
+2024-06-06 22:09:29.773 [main] INFO  fiap.tds.Main - Grizzly HTTP server started at: http://localhost:8080/
+2024-06-06 22:09:29.773 [main] INFO  fiap.tds.Main - Jersey app started with endpoints available at http://localhost:8080/
+2024-06-06 22:09:29.773 [main] INFO  fiap.tds.Main - Hit Ctrl-C to stop it...
+2024-06-06 22:09:44.093 [grizzly-http-server-1] INFO  fiap.tds.service.ReportService - Verificando email: joao.silva@gmail.com com URL: https://verifier.meetchopra.com/verify/joao.silva%40gmail.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-06 22:09:44.680 [grizzly-http-server-1] INFO  fiap.tds.service.ReportService - Resposta da verificação de email: {"status":true,"email":"joao.silva@gmail.com","domain":"gmail.com"}
+2024-06-06 22:09:45.180 [grizzly-http-server-1] INFO  fiap.tds.service.ReportService - Resposta da busca de CEP: {
+  "cep": "01001-000",
+  "logradouro": "Praça da Sé",
+  "complemento": "lado ímpar",
+  "bairro": "Sé",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}
+2024-06-06 22:10:17.557 [grizzly-http-server-2] INFO  fiap.tds.service.ReportService - Usuário associado ao relatório: UserReport{id=10, nomeCompleto='João Silva', email='joao.silva@gmail.com', cpf='12345678901', cep='01001000'}
+2024-06-06 22:10:17.561 [grizzly-http-server-2] INFO  fiap.tds.service.ReportService - Verificando email: felipearcanjo@gmail.com com URL: https://verifier.meetchopra.com/verify/felipearcanjo%40gmail.com?token=92928b756e623357b3bd80e8dc90deae85bb184eda58afa5e71d7060430664ed9aa0d163b4a1ea1cc81357753dcd4a26
+2024-06-06 22:10:17.864 [grizzly-http-server-2] INFO  fiap.tds.service.ReportService - Resposta da verificação de email: {"status":true,"email":"felipearcanjo@gmail.com","domain":"gmail.com"}
+2024-06-06 22:10:18.304 [grizzly-http-server-2] INFO  fiap.tds.service.ReportService - Resposta da busca de CEP: {
+  "cep": "01001-000",
+  "logradouro": "Praça da Sé",
+  "complemento": "lado ímpar",
+  "bairro": "Sé",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}
+2024-06-06 22:10:18.337 [grizzly-http-server-2] INFO  fiap.tds.service.ReportService - Endereço obtido pelo CEP: {"cep":"01001-000","logradouro":"Praça da Sé","complemento":"lado ímpar","bairro":"Sé","localidade":"São Paulo","uf":"SP","ibge":"3550308","gia":"1004","ddd":"11","siafi":"7107"}
