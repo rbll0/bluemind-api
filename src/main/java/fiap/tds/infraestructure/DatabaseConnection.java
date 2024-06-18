@@ -14,8 +14,8 @@ import java.sql.SQLException;
  */
 public class DatabaseConnection {
     private static final String URL = "jdbc:oracle:thin:@oracle.fiap.com.br:1521:ORCL";
-    private static final String USER = "rm553326";
-    private static final String PASSWORD = "091003";
+    private static final String USER = "";
+    private static final String PASSWORD = "";
     private static final Logger logger = LogManager.getLogger(DatabaseConnection.class);
 
     /**
